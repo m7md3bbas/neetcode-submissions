@@ -76,6 +76,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/m7md3bbas/neetcode-submissions/tree/master/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/m7md3bbas/neetcode-submissions/tree/master/0412-fizz-buzz) |
 ## String
 |  |
