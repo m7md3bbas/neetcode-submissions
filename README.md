@@ -83,6 +83,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/m7md3bbas/neetcode-submissions/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/m7md3bbas/neetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0412-fizz-buzz](https://github.com/m7md3bbas/neetcode-submissions/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -112,4 +113,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [3745-maximize-expression-of-three-elements](https://github.com/m7md3bbas/neetcode-submissions/tree/master/3745-maximize-expression-of-three-elements) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/m7md3bbas/neetcode-submissions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/m7md3bbas/neetcode-submissions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
