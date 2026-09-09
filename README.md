@@ -138,4 +138,20 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/m7md3bbas/neetcode-submissions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/m7md3bbas/neetcode-submissions/tree/master/0232-implement-queue-using-stacks) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/m7md3bbas/neetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/m7md3bbas/neetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/m7md3bbas/neetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/m7md3bbas/neetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
