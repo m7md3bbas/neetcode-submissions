@@ -98,6 +98,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0001-two-sum](https://github.com/m7md3bbas/neetcode-submissions/tree/master/0001-two-sum) |
 | [0189-rotate-array](https://github.com/m7md3bbas/neetcode-submissions/tree/master/0189-rotate-array) |
 | [1207-unique-number-of-occurrences](https://github.com/m7md3bbas/neetcode-submissions/tree/master/1207-unique-number-of-occurrences) |
+| [1480-running-sum-of-1d-array](https://github.com/m7md3bbas/neetcode-submissions/tree/master/1480-running-sum-of-1d-array) |
 | [3745-maximize-expression-of-three-elements](https://github.com/m7md3bbas/neetcode-submissions/tree/master/3745-maximize-expression-of-three-elements) |
 ## Hash Table
 |  |
@@ -166,4 +167,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/m7md3bbas/neetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/m7md3bbas/neetcode-submissions/tree/master/0111-minimum-depth-of-binary-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/m7md3bbas/neetcode-submissions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
