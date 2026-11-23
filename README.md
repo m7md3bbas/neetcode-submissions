@@ -78,6 +78,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0009-palindrome-number](https://github.com/m7md3bbas/neetcode-submissions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/m7md3bbas/neetcode-submissions/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/m7md3bbas/neetcode-submissions/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/m7md3bbas/neetcode-submissions/tree/master/0412-fizz-buzz) |
 ## String
 |  |
@@ -95,6 +96,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/m7md3bbas/neetcode-submissions/tree/master/0001-two-sum) |
+| [0189-rotate-array](https://github.com/m7md3bbas/neetcode-submissions/tree/master/0189-rotate-array) |
 | [1207-unique-number-of-occurrences](https://github.com/m7md3bbas/neetcode-submissions/tree/master/1207-unique-number-of-occurrences) |
 | [3745-maximize-expression-of-three-elements](https://github.com/m7md3bbas/neetcode-submissions/tree/master/3745-maximize-expression-of-three-elements) |
 ## Hash Table
@@ -129,6 +131,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/m7md3bbas/neetcode-submissions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/m7md3bbas/neetcode-submissions/tree/master/0344-reverse-string) |
 ## Design
 |  |
