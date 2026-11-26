@@ -99,6 +99,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0189-rotate-array](https://github.com/m7md3bbas/neetcode-submissions/tree/master/0189-rotate-array) |
 | [1207-unique-number-of-occurrences](https://github.com/m7md3bbas/neetcode-submissions/tree/master/1207-unique-number-of-occurrences) |
 | [1480-running-sum-of-1d-array](https://github.com/m7md3bbas/neetcode-submissions/tree/master/1480-running-sum-of-1d-array) |
+| [1652-defuse-the-bomb](https://github.com/m7md3bbas/neetcode-submissions/tree/master/1652-defuse-the-bomb) |
 | [3745-maximize-expression-of-three-elements](https://github.com/m7md3bbas/neetcode-submissions/tree/master/3745-maximize-expression-of-three-elements) |
 ## Hash Table
 |  |
@@ -171,4 +172,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/m7md3bbas/neetcode-submissions/tree/master/1480-running-sum-of-1d-array) |
+## Sliding Window
+|  |
+| ------- |
+| [1652-defuse-the-bomb](https://github.com/m7md3bbas/neetcode-submissions/tree/master/1652-defuse-the-bomb) |
 <!---LeetCode Topics End-->
